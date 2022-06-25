@@ -1,0 +1,62 @@
+Commands:
+  NoPerm: "&cVous n'êtes pas autorisé à utiliser cette commande."
+  PlaOff: "&cLe joueur est hors ligne!"
+
+  Balance:
+    SpePlayer: "&cVous devez spécifier un joueur."
+    Money: "&a - Argent: &6%s"
+    Exp: "&a - Exp: &6%s"
+
+  Help:
+    Help: "Affiche ce menu d'aide."
+    Open: "Ouvre l'interface graphique de la banque."
+    Balance: "Affiche votre solde actuel."
+    Deposit: "Dépose le montant spécifié."
+    Withdraw: "Retire le montant spécifié."
+
+Deposit:
+  NoSpace: "&cVous n'avez pas assez d'espace dans votre banque!"
+
+  InvInput: "&cEntrée invalide!"
+
+  Money:
+    Doing: "&8Déposer de l'argent..."
+    HaveZero: "&cVous n'avez que %s!"
+    DepoZero: "&cPourquoi déposeriez-vous %s?"
+    Success: "&aVous avez déposé avec succès %s sur votre compte bancaire!"
+    NE: "&cVous n'avez pas assez d'argent!"
+    Broke: "&cCette fonctionnalité est cassée! Veuillez contacter un administrateur!\n
+            &6Vous pouvez utiliser /bank deposit money <amount> à la place."
+
+  Exp:
+    Doing: "&8Déposer de les exp..."
+    HaveZero: "&cVous n'avez que %s!"
+    DepoZero: "&cPourquoi déposeriez-vous %s?"
+    Success: "&aVous avez déposé avec succès %s sur votre compte bancaire!"
+    NE: "&cVous n'avez pas assez d'expérience!"
+    Broke: "&cCette fonctionnalité est cassée! Veuillez contacter un administrateur!\n
+            &6Vous pouvez utiliser /bank deposit exp <amount> à la place."
+
+Withdraw:
+  InvInput: "&cEntrée invalide!"
+
+  Money:
+    Doing: "&8Retirer de l'argent..."
+    HaveZero: "&cVous n'avez que %s dans votre banque!"
+    WithZero: "&cPourquoi retireriez-vous %s?"
+    Success: "&aVous avez réussi à retirer %s de votre compte bancaire!"
+    NE: "&cVous n'avez pas assez d'argent à la banque!"
+    Broke: "&cCette fonctionnalité est cassée! Veuillez contacter un administrateur!\n
+            &6Vous pouvez utiliser /bank withdraw money <amount> à la place."
+
+  Exp:
+    Doing: "&8Retirer de les exp..."
+    HaveZero: "&cVous n'avez que %s dans votre banque!"
+    WithZero: "&cPourquoi retireriez-vous %s?"
+    Success: "&aVous avez réussi à retirer %s de votre compte bancaire!"
+    NE: "&cVous n'avez pas assez d'expérience en banque!"
+    Broke: "&cCette fonctionnalité est cassée! Veuillez contacter un administrateur!\n
+            &6Vous pouvez utiliser /bank withdraw exp <amount> à la place."
+
+ConfirmUpgrade:
+  NEM: "&cVous n'avez pas assez d'argent!"
