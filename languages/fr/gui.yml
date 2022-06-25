@@ -1,0 +1,102 @@
+Title: "Menu Banque"
+
+Button:
+  Close: "&cFermer"
+  Close_Lore: "&bCliquez pour fermer ce menu."
+  
+  Back: "&Arrière"
+  Back_Lore: "&eCliquez pour revenir en arrière."
+
+Main:
+  Money: "&bSolde: %s"
+  Money_Lore: "&aCliquez pour retirer/déposer."
+
+  Exp: "&b%s"
+  Exp_Lore: "&aCliquez pour retirer/déposer."
+
+  Upgrade: "&bMise à niveau de la banque"
+  Upgrade_Lore: "&aCliquez pour mettre à niveau votre banque."
+  
+  Tier: "&aNiveau %s"
+  TierMaxMoney: "&5Argent maximum: &b%s"
+  TierMaxExp: "&5Exp maximum: &b%s"
+  
+  CalInterest: "&aTemps jusqu'au prochain intérêt: %s"
+  CalInterestAPR: "&a, APR: %s%%"
+  CalInterestInterest: "&5Intérêt que vous obtiendrez:"
+  CalInterestMoney: "&b%s"
+  CalInterestExp: "&b%s"
+
+Money:
+  Balance: "&bSolde: %s"
+  Balance_Lore: "&aVotre argent actuel."
+  
+  WithdrawAll: "&bCliquez pour retirer tout l'argent."
+  WithdrawAll_Lore: "&eRetirer tout l'argent."
+  
+  Withdraw: "&bCliquez pour retirer de l'argent."
+  Withdraw_Lore: "&eEntrez le montant à retirer."
+  Withdraw_Sign3: "Entrez le montant"
+  Withdraw_Sign4: "à retirer"
+  
+  Deposit: "&bCliquez pour déposer de l'argent."
+  Deposit_Lore: "&eEntrez le montant à déposer."
+  Deposit_Sign3: "Entrez le montant"
+  Deposit_Sign4: "à déposer"
+  
+  DepositAll: "&bCliquez pour déposer tout l'argent."
+  DepositAll_Lore: "&eDéposez tout l'argent."
+
+Exp:
+  Balance: "&b%s"
+  Balance_Lore: "&aVotre montant actuel d'exp."
+
+  WithdrawAll: "&bCliquez pour retirer toutes les exp."
+  WithdrawAll_Lore: "&eRetirer toutes les exp."
+  
+  Withdraw: "&bCliquez pour retirer exp."
+  Withdraw_Lore: "&eEntrez le montant à retirer."
+  Withdraw_Sign3: "Entrez le montant"
+  Withdraw_Sign4: "à retirer"
+  
+  Deposit: "&bCliquez pour déposer exp."
+  Deposit_Lore: "&eEntrez le montant à déposer."
+  Deposit_Sign3: "Entrez le montant"
+  Deposit_Sign4: "à déposer"
+  
+  DepositAll: "&bCliquez pour déposer toutes les exp."
+  DepositAll_Lore: "&eDéposez toutes les exp."
+
+Upgrade:
+  Next: "&aPage suivante >>"
+  Previous: "&a<< Page précédente"
+
+  Owned: "&bVous appartenant"
+  Tier: "&bNiveau %s"
+  Price: "&aPrix de mise à niveau: &b%s"
+  MaxMoney: "&5Argent maximum: &b%s"
+  MaxExp: "&5Exp maximum: &b%s"
+  
+  PointerNEM: "&cVous n'avez pas assez d'argent!"
+  
+  PointerBottom: "&eCliquez sur le coffre au-dessus"
+  PointerBottom_Lore: "&ede moi pour mettre à niveau."
+
+ConfirmUpgrade:
+  Balance: "&bSolde: %s"
+  Balance_Lore: "&eDe l'argent dans votre poche."
+
+  BUP: "&eAcheter cette mise à niveau?"
+  CUP: "&eMise à niveau actuelle"
+
+  Tier:     "  - &bNiveau %s"
+  Price:    "  - &aPrix de mise à niveau: &b%s"
+  MaxMoney: "  - &5Argent maximum: &b%s"
+  MaxExp:   "  - &5Exp maximum: &b%s"
+
+  Accept: "&2J'ACCEPTE"
+  Cancel: "&4ANNULER"
+
+  NEM: "&cVous n'avez pas assez d'argent!"
+  EST: "&eIl vous restera %s"
+
