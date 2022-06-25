@@ -23,7 +23,7 @@ Deposit:
     Doing: "&8Depositing money..."
     HaveZero: "&cYou only have %s!"
     DepoZero: "&cWhy would you deposit %s?"
-    Success: "&aYou successfully deposited $%s to your bank account!"
+    Success: "&aYou successfully deposited %s to your bank account!"
     NE: "&cYou don't have enough money!"
     Broke: "&cThis feature is broken! Please contact an admin!\n
             &6You can use /bank deposit money <amount> instead."
@@ -53,7 +53,7 @@ Withdraw:
     Doing: "&8Withdrawing exp..."
     HaveZero: "&cYou only have %s in your bank!"
     WithZero: "&cWhy would you withdraw %s?"
-    Success: "&aYou successfully withdraw %s exp from your bank account!"
+    Success: "&aYou successfully withdraw %s from your bank account!"
     NE: "&cYou don't have enough exp in the bank!"
     Broke: "&cThis feature is broken! Please contact an admin!\n
             &6You can use /bank withdraw exp <amount> instead."

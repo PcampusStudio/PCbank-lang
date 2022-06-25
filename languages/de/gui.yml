@@ -42,7 +42,7 @@ Money:
   Deposit: "&bKlicke hier um dein Geld einzuzahlen."
   Deposit_Lore: "&eGib dein einzuzahlenden Betrag ein."
   Deposit_Sign3: "Gib den Betrag ein"
-  Deposit_Sign4: "zurückzuziehen"
+  Deposit_Sign4: "einzahlen"
   
   DepositAll: "&bKLicke hier um dein gesamtes Geld einzuzahlen."
   DepositAll_Lore: "&eGeld komplett einzahlen."
@@ -62,7 +62,7 @@ Exp:
   Deposit: "&bKLicke um Erfahrungspunkte einzuzahlen"
   Deposit_Lore: "&eGib den einzuzahlenden Betrag ein."
   Deposit_Sign3: "Gib den Betrag ein"
-  Deposit_Sign4: "zurückzuziehen"
+  Deposit_Sign4: "einzahlen"
   
   DepositAll: "&bKlick hier, um alle Erfahrungspunkte einzuzahlen."
   DepositAll_Lore: "&eEinzahlung aller Erfahrungspunkte."
