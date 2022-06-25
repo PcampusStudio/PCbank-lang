@@ -42,7 +42,7 @@ Money:
   Deposit: "&bClick to deposit money."
   Deposit_Lore: "&eEnter the amount to deposit."
   Deposit_Sign3: "Enter the amount"
-  Deposit_Sign4: "to withdraw"
+  Deposit_Sign4: "to deposit"
   
   DepositAll: "&bClick to deposit all money."
   DepositAll_Lore: "&eDeposit all money."
@@ -62,7 +62,7 @@ Exp:
   Deposit: "&bClick to deposit exp."
   Deposit_Lore: "&eEnter the amount to deposit."
   Deposit_Sign3: "Enter the amount"
-  Deposit_Sign4: "to withdraw"
+  Deposit_Sign4: "to deposit"
   
   DepositAll: "&bClick to deposit all exp."
   DepositAll_Lore: "&eDeposit all exp."
