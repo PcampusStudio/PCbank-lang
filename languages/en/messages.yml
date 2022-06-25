@@ -1,0 +1,62 @@
+Commands:
+  NoPerm: "&cYou don't have permission to use this command."
+  PlaOff: "&cPlayer is offline!"
+
+  Balance:
+    SpePlayer: "&cYou must specify a player."
+    Money: "&a - Money: &6%s"
+    Exp: "&a - Exp: &6%s"
+
+  Help:
+    Help: "Displays this help menu."
+    Open: "Opens the bank GUI."
+    Balance: "Displays your current balance."
+    Deposit: "Deposits the specified amount."
+    Withdraw: "Withdraws the specified amount."
+
+Deposit:
+  NoSpace: "&cYou don't have enough space in your bank!"
+
+  InvInput: "&cInvalid Input!"
+
+  Money:
+    Doing: "&8Depositing money..."
+    HaveZero: "&cYou only have %s!"
+    DepoZero: "&cWhy would you deposit %s?"
+    Success: "&aYou successfully deposited $%s to your bank account!"
+    NE: "&cYou don't have enough money!"
+    Broke: "&cThis feature is broken! Please contact an admin!\n
+            &6You can use /bank deposit money <amount> instead."
+
+  Exp:
+    Doing: "&8Depositing exp..."
+    HaveZero: "&cYou only have %s!"
+    DepoZero: "&cWhy would you deposit %s?"
+    Success: "&aYou successfully deposited %s to your bank account!"
+    NE: "&cYou don't have enough exp!"
+    Broke: "&cThis feature is broken! Please contact an admin!\n
+            &6You can use /bank deposit exp <amount> instead."
+
+Withdraw:
+  InvInput: "&cInvalid Input!"
+
+  Money:
+    Doing: "&8Withdrawing money..."
+    HaveZero: "&cYou only have %s in your bank!"
+    WithZero: "&cWhy would you withdraw %s?"
+    Success: "&aYou successfully withdraw %s from your bank account!"
+    NE: "&cYou don't have enough money in the bank!"
+    Broke: "&cThis feature is broken! Please contact an admin!\n
+            &6You can use /bank withdraw money <amount> instead."
+
+  Exp:
+    Doing: "&8Withdrawing exp..."
+    HaveZero: "&cYou only have %s in your bank!"
+    WithZero: "&cWhy would you withdraw %s?"
+    Success: "&aYou successfully withdraw %s exp from your bank account!"
+    NE: "&cYou don't have enough exp in the bank!"
+    Broke: "&cThis feature is broken! Please contact an admin!\n
+            &6You can use /bank withdraw exp <amount> instead."
+
+ConfirmUpgrade:
+  NEM: "&cYou don't have enough money!"

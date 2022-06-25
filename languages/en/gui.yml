@@ -1,0 +1,102 @@
+Title: "Bank Menu"
+
+Button:
+  Close: "&cClose"
+  Close_Lore: "&bClick to close this menu."
+  
+  Back: "&cBack"
+  Back_Lore: "&eClick to go back."
+
+Main:
+  Money: "&bBalance: %s"
+  Money_Lore: "&aClick to withdraw/deposit."
+
+  Exp: "&b%s"
+  Exp_Lore: "&aClick to withdraw/deposit."
+
+  Upgrade: "&bBank Upgrade"
+  Upgrade_Lore: "&aClick to upgrade your bank."
+  
+  Tier: "&aTier: %s"
+  TierMaxMoney: "&5Max Money: &b%s"
+  TierMaxExp: "&5Max Exp: &b%s"
+  
+  CalInterest: "&aTime until next interest: %s"
+  CalInterestAPR: "&a, APR: %s%%"
+  CalInterestInterest: "&5Interest you will get:"
+  CalInterestMoney: "&b%s"
+  CalInterestExp: "&b%s"
+
+Money:
+  Balance: "&bBalance: %s"
+  Balance_Lore: "&aYour current money."
+  
+  WithdrawAll: "&bClick to withdraw all money."
+  WithdrawAll_Lore: "&eWithdraw all money."
+  
+  Withdraw: "&bClick to withdraw money."
+  Withdraw_Lore: "&eEnter the amount to withdraw."
+  Withdraw_Sign3: "Enter the amount"
+  Withdraw_Sign4: "to withdraw"
+  
+  Deposit: "&bClick to deposit money."
+  Deposit_Lore: "&eEnter the amount to deposit."
+  Deposit_Sign3: "Enter the amount"
+  Deposit_Sign4: "to withdraw"
+  
+  DepositAll: "&bClick to deposit all money."
+  DepositAll_Lore: "&eDeposit all money."
+
+Exp:
+  Balance: "&b%s"
+  Balance_Lore: "&aYour current amount of exp."
+
+  WithdrawAll: "&bClick to withdraw all exp."
+  WithdrawAll_Lore: "&eWithdraw all exp."
+  
+  Withdraw: "&bClick to withdraw exp."
+  Withdraw_Lore: "&eEnter the amount to withdraw."
+  Withdraw_Sign3: "Enter the amount"
+  Withdraw_Sign4: "to withdraw"
+  
+  Deposit: "&bClick to deposit exp."
+  Deposit_Lore: "&eEnter the amount to deposit."
+  Deposit_Sign3: "Enter the amount"
+  Deposit_Sign4: "to withdraw"
+  
+  DepositAll: "&bClick to deposit all exp."
+  DepositAll_Lore: "&eDeposit all exp."
+
+Upgrade:
+  Next: "&aNext Page >>"
+  Previous: "&a<< Previous Page"
+
+  Owned: "&bOwned"
+  Tier: "&bTier %s"
+  Price: "&aUpgrade Price: &b%s"
+  MaxMoney: "&5Max Money: &b%s"
+  MaxExp: "&5Max Exp: &b%s"
+  
+  PointerNEM: "&cYou don't have enough money!"
+  
+  PointerBottom: "&eClick on the chest on top"
+  PointerBottom_Lore: "&eof me to upgrade."
+
+ConfirmUpgrade:
+  Balance: "&bBalance: %s"
+  Balance_Lore: "&eMoney in your pocket."
+
+  BUP: "&eBuy this upgrade?"
+  CUP: "&eCurrent Upgrade"
+
+  Tier:     "  - &bTier %s"
+  Price:    "  - &aUpgrade Price: &b%s"
+  MaxMoney: "  - &5Max Money: &b%s"
+  MaxExp:   "  - &5Max Exp: &b%s"
+
+  Accept: "&2ACCEPT"
+  Cancel: "&4CANCEL"
+
+  NEM: "&cYou don't have enough money!"
+  EST: "&eYou will have %s left."
+

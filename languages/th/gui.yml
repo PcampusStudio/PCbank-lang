@@ -1,0 +1,102 @@
+Title: "เมนูธนาคาร"
+
+Button:
+  Close: "&cปิด"
+  Close_Lore: "&bกดเพื่อปิดเมนู"
+  
+  Back: "&cกลับ"
+  Back_Lore: "&eกดเพื่อกลับ"
+
+Main:
+  Money: "&bคงเหลือ: %s"
+  Money_Lore: "&aกดเพื่อฝาก/ถอน"
+
+  Exp: "&b%s"
+  Exp_Lore: "&aกดเพื่อฝาก/ถอน"
+
+  Upgrade: "&bอัพเกรดธนาคาร"
+  Upgrade_Lore: "&aกดเพื่ออัพเกรดธนาคาร"
+  
+  Tier: "&aระดับที่ %s"
+  TierMaxMoney: "&5จำนวนเงินสูงสุดที่เก็บได้: &b%s"
+  TierMaxExp: "&5จำนวน exp สูงสุดที่เก็บได้: &b%s"
+  
+  CalInterest: "&aเวลาก่อนที่จะได้รับดอกเบี้ยครั้งต่อไป: %s"
+  CalInterestAPR: "&a, เปอร์เซ็นต์ดอกเบี้ย: %s%%"
+  CalInterestInterest: "&5ดอกเบี้ยที่จะได้รับ:"
+  CalInterestMoney: "&b%s"
+  CalInterestExp: "&b%s"
+
+Money:
+  Balance: "&bคงเหลือ: %s"
+  Balance_Lore: "&aเงินในบัญชีธนาคาร"
+  
+  WithdrawAll: "&bกดเพื่อถอนเงินทั้งหมด"
+  WithdrawAll_Lore: "&eถอนเงินทั้งหมด"
+  
+  Withdraw: "&bกดเพื่อถอนเงิน"
+  Withdraw_Lore: "&eระบุจำนวนที่จะถอนออก"
+  Withdraw_Sign3: "ระบุจำนวนที่"
+  Withdraw_Sign4: "จะถอนออก"
+  
+  Deposit: "&bกดเพื่อฝากเงิน"
+  Deposit_Lore: "&eระบุจำนวนที่จะฝากเข้า"
+  Deposit_Sign3: "ระบุจำนวนที่"
+  Deposit_Sign4: "จะฝากเข้า"
+  
+  DepositAll: "&bกดเพื่อฝากเงินทั้งหมด"
+  DepositAll_Lore: "&eฝากเงินทั้งหมด"
+
+Exp:
+  Balance: "&b%s"
+  Balance_Lore: "&aExp ในบัญชีธนาคาร"
+
+  WithdrawAll: "&bกดเพื่อถอน exp ทั้งหมด"
+  WithdrawAll_Lore: "&eถอน exp ทั้งหมด"
+  
+  Withdraw: "&bกดเพื่อถอน exp"
+  Withdraw_Lore: "&eระบุจำนวนที่จะถอนออก"
+  Withdraw_Sign3: "ระบุจำนวนที่"
+  Withdraw_Sign4: "จะถอนออก"
+  
+  Deposit: "&bกดเพื่อฝาก exp"
+  Deposit_Lore: "&eระบุจำนวนที่จะฝากเข้า"
+  Deposit_Sign3: "ระบุจำนวนที่"
+  Deposit_Sign4: "จะฝากเข้า"
+  
+  DepositAll: "&bกดเพื่อฝาก exp ทั้งหมด"
+  DepositAll_Lore: "&eฝาก exp ทั้งหมด"
+
+Upgrade:
+  Next: "&aหน้าต่อไป >>"
+  Previous: "&a<< หน้าก่อนหน้า"
+
+  Owned: "&bเป็นเจ้าของ"
+  Tier: "&bระดับที่ %s"
+  Price: "&aราคา: &b%s"
+  MaxMoney: "&5จำนวนเงินสูงสุดที่เก็บได้: &b%s"
+  MaxExp: "&5จำนวนเลเวลสูงสุดที่เก็บได้: &b%s"
+  
+  PointerNEM: "&cมีเงินไม่พอ!"
+  
+  PointerBottom: "&eคลิกบนกล่องข้างบน"
+  PointerBottom_Lore: "&eเพื่ออัพเกรด"
+
+ConfirmUpgrade:
+  Balance: "&bคงเหลือ: %s"
+  Balance_Lore: "&eเงินในกระเป๋าตัง"
+
+  BUP: "&eจะซื้ออัพเกรดอันนี้หรือไม่?"
+  CUP: "&eระดับ ณ ตอนนี้"
+
+  Tier: "  - &bระดับที่ %s"
+  Price: "  - &aราคา: &b%s"
+  MaxMoney: "  - &5จำนวนเงินสูงสุดที่เก็บได้: &b%s"
+  MaxExp: "  - &5จำนวนเลเวลสูงสุดที่เก็บได้: &b%s"
+
+  Accept: "&2ยอมรับ"
+  Cancel: "&4ยกเลิก"
+
+  NEM: "&cมีเงินไม่พอ!"
+  EST: "&eจะเหลือ %s"
+

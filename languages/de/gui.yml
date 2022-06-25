@@ -1,0 +1,102 @@
+Title: "Bankmenü"
+
+Button:
+  Close: "&cSchließen"
+  Close_Lore: "&bKlicke hier um das Menü zu schließen."
+  
+  Back: "&cZurückgehen"
+  Back_Lore: "&eKlicke hier um zurückzugehen."
+
+Main:
+  Money: "&bGuthaben: %s"
+  Money_Lore: "&aKlicke hier um abzuheben/einzuzahlen."
+
+  Exp: "&b%s"
+  Exp_Lore: "&aKlicke hier um abzuheben/einzuzahlen."
+
+  Upgrade: "&bBankupgrade"
+  Upgrade_Lore: "&aKlick hier um die Bank zu aktualisieren."
+  
+  Tier: "&aEbene: %s"
+  TierMaxMoney: "&5max. Geld: &b%s"
+  TierMaxExp: "&5max. Erfahrungspunkte: &b%s"
+  
+  CalInterest: "&aZeit bis zu den nächsten Zinsen: %s"
+  CalInterestAPR: "&a, von: %s%%"
+  CalInterestInterest: "&5Du erhälst Zinsen:"
+  CalInterestMoney: "&b%s"
+  CalInterestExp: "&b%s"
+
+Money:
+  Balance: "&bGuthaben: %s"
+  Balance_Lore: "&aDein aktuelles Guthaben."
+  
+  WithdrawAll: "&bKlicke um dein Geld abzuheben."
+  WithdrawAll_Lore: "&eGeld komplett abheben."
+  
+  Withdraw: "&bKlicke hier um dein Geld abzuheben."
+  Withdraw_Lore: "&eGib den abzuhebenden Betrag ein."
+  Withdraw_Sign3: "Gib den Betrag ein"
+  Withdraw_Sign4: "zurückzuziehen"
+  
+  Deposit: "&bKlicke hier um dein Geld einzuzahlen."
+  Deposit_Lore: "&eGib dein einzuzahlenden Betrag ein."
+  Deposit_Sign3: "Gib den Betrag ein"
+  Deposit_Sign4: "zurückzuziehen"
+  
+  DepositAll: "&bKLicke hier um dein gesamtes Geld einzuzahlen."
+  DepositAll_Lore: "&eGeld komplett einzahlen."
+
+Exp:
+  Balance: "&b%s"
+  Balance_Lore: "&aDeine aktuelle Menge an Erfahrungspunkten."
+
+  WithdrawAll: "&bKlicke hier, um alle Erfahrungspunkte abzuheben."
+  WithdrawAll_Lore: "&eAlle Erfahrungspunkte abheben."
+  
+  Withdraw: "&bKlicke um Erfahrungspunkte abzuheben"
+  Withdraw_Lore: "&eGib den abzuhebenden Betrag ein."
+  Withdraw_Sign3: "Gib den Betrag ein"
+  Withdraw_Sign4: "zurückzuziehen"
+  
+  Deposit: "&bKLicke um Erfahrungspunkte einzuzahlen"
+  Deposit_Lore: "&eGib den einzuzahlenden Betrag ein."
+  Deposit_Sign3: "Gib den Betrag ein"
+  Deposit_Sign4: "zurückzuziehen"
+  
+  DepositAll: "&bKlick hier, um alle Erfahrungspunkte einzuzahlen."
+  DepositAll_Lore: "&eEinzahlung aller Erfahrungspunkte."
+
+Upgrade:
+  Next: "&aNächste Seite >>"
+  Previous: "&a<< Vorherige Seite"
+
+  Owned: "&bBesitz"
+  Tier: "&bEbene %s"
+  Price: "&aPreis für Aktualisierung: &b%s"
+  MaxMoney: "&5max. Geld: &b%s"
+  MaxExp: "&5max Erfahrungspunkte: &b%s"
+  
+  PointerNEM: "&cDu hast nicht genug Geld!"
+  
+  PointerBottom: "&eKlicke oben auf die Truhe"
+  PointerBottom_Lore: "&evon mir zu aktualisieren."
+
+ConfirmUpgrade:
+  Balance: "&bGuthaben: %s"
+  Balance_Lore: "&eGeld in deiner Tasche."
+
+  BUP: "&eAktualisierung kaufen?"
+  CUP: "&eAktuelle Aktualisierung"
+
+  Tier:     "  - &bEbene %s"
+  Price:    "  - &aPreis für Aktualisierung: &b%s"
+  MaxMoney: "  - &5max. Geld: &b%s"
+  MaxExp:   "  - &5max Erfahrungspunkte: &b%s"
+
+  Accept: "&2Akzeptieren"
+  Cancel: "&4Abbrechen"
+
+  NEM: "&cDu hast nicht genug Geld!"
+  EST: "&eDu hast noch %s übrig."
+

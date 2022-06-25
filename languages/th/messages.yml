@@ -1,0 +1,62 @@
+Commands:
+  NoPerm: "&cคุณไม่มี permission ที่จะใช้คำสั่งนี้"
+  PlaOff: "&cผู้เล่น offline!"
+
+  Balance:
+    SpePlayer: "&cต้องระบุผู้เล่น"
+    Money: "&a - เงิน: &6%s"
+    Exp: "&a - Exp: &6%s"
+
+  Help:
+    Help: "ส่งข้อความระบุว่าคำสั่งทำอะไร"
+    Open: "เปิดหน้าเมนู"
+    Balance: "ส่งข้อความระบุยอดคงเหลือของคุณ"
+    Deposit: "ฝากเงิน/exp"
+    Withdraw: "ถอนเงิน/exp"
+
+Deposit:
+  NoSpace: "&cไม่มีพื้นที่ในธนาคารเพียงพอ"
+
+  InvInput: "&cเลขไม่ถูกต้อง!"
+
+  Money:
+    Doing: "&8กำลังฝากเงิน..."
+    HaveZero: "&cคุณมีแค่ %s!"
+    DepoZero: "&cทำไมคิดจะฝาก %s?"
+    Success: "&aฝากเงินสำเร็จ เงิน %s ฝากเข้าไปในบัญชีของคุณ!"
+    NE: "&cมีเงินไม่พอ!"
+    Broke: "&cFeature นี้พัง! กรุณาช่วยไปบอก admin ด้วย!\n
+            &6ใช้คำสั่งนี้แทน /bank deposit money <amount>"
+
+  Exp:
+    Doing: "&8กำลังฝาก exp..."
+    HaveZero: "&cคุณมีแค่ %s!"
+    DepoZero: "&cทำไมคิดจะฝาก %s?"
+    Success: "&aฝากเลเวลสำเร็จ %s ฝากเข้าไปในบัญชีของคุณ!"
+    NE: "&cมี exp ไม่พอ!"
+    Broke: "&cFeature นี้พัง! กรุณาช่วยไปบอก admin ด้วย!\n
+            &6ใช้คำสั่งนี้แทน /bank deposit exp <amount>"
+
+Withdraw:
+    InvInput: "&cเลขไม่ถูกต้อง!"
+
+    Money:
+      Doing: "&8กำลังถอนเงิน..."
+      HaveZero: "&cคุณมีแค่ %s ในธนาคาร!"
+      WithZero: "&cทำไมคิดจะถอน %s?"
+      Success: "&aถอนเงินสำเร็จ เงิน %s ถอนออกไปจากบัญชีของคุณ!"
+      NE: "&cมีเงินในธนาคารไม่พอ!"
+      Broke: "&cFeature นี้พัง! กรุณาช่วยไปบอก admin ด้วย!\n
+              &6ใช้คำสั่งนี้แทน /bank withdraw money <amount>"
+
+    Exp:
+      Doing: "&8กำลังถอน exp..."
+      HaveZero: "&cคุณมีแค่ 0 exp ในธนาคาร!"
+      WithZero: "&cทำไมคิดจะถอน 0 exp?"
+      Success: "&aถอนเงินสำเร็จ %s exp ถอนออกไปจากบัญชีของคุณ!"
+      NE: "&cมี exp ในธนาคารไม่พอ!"
+      Broke: "&cFeature นี้พัง! กรุณาช่วยไปบอก admin ด้วย!\n
+              &6ใช้คำสั่งนี้แทน /bank withdraw exp <amount>"
+
+ConfirmUpgrade:
+  NEM: "&cมีเงินไม่พอ!"

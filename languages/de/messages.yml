@@ -1,0 +1,62 @@
+Commands:
+  NoPerm: "&cSie sind nicht berechtigt, diesen Befehl zu verwenden."
+  PlaOff: "&cSpieler ist offline!"
+
+  Balance:
+    SpePlayer: "&cDu musst einen Spieler angeben."
+    Money: "&a - Geld: &6%s"
+    Exp: "&a - Erfahrungspunkte: &6%s"
+
+  Help:
+    Help: "Zeigt das Hilfsmenü an."
+    Open: "Öffnet das Bank GUI."
+    Balance: "Zeigt dein aktuelles Guthaben an."
+    Deposit: "Zahlt den angegebenen Betrag ein."
+    Withdraw: "Zieht den angegebenen Betrag ab."
+
+Deposit:
+  NoSpace: "&cDu hast nicht genug Platz in deiner Bank!"
+
+  InvInput: "&cUngültige Eingabe!"
+
+  Money:
+    Doing: "&8Geldeinzahlung..."
+    HaveZero: "&cDu hast nur %s!"
+    DepoZero: "&cWarum würdest du %s einzahlen?"
+    Success: "&aDu hast erfolgreich %s auf dein Bankkonto eingezahlt!"
+    NE: "&cDu hast nicht genug Geld!"
+    Broke: "&cDiese Funktion ist defekt! Bitte wenden Sie sich an einen Admin!\n
+            &6Sie können stattdessen /bank deposit money <amount> verwenden."
+
+  Exp:
+    Doing: "&8Erfahrungspunkteeinzahlung..."
+    HaveZero: "&cDu hast nur %s!"
+    DepoZero: "&cWarum würdes du %s einzahlen?"
+    Success: "&aDu hast erfolgreich %s auf dein Bankkonto eingezahlt!"
+    NE: "&cDu hast nicht genug Erfahrungspunkte!"
+    Broke: "&cDiese Funktion ist defekt! Bitte wenden Sie sich an einen Admin!\n
+            &6Sie können stattdessen /bank deposit exp <amount> verwenden."
+
+Withdraw:
+    InvInput: "&cUngültige Eingabe!"
+
+    Money:
+      Doing: "&8Geldabhebung..."
+      HaveZero: "&cDu hast nur %s auf deiner Bank!"
+      WithZero: "&cWarum solltest Du %s abheben?"
+      Success: "&aDu hast erfolgreich %s von deinem Bankkonto abgehoben!"
+      NE: "&cDu hast nicht genug Geld auf deiner Bank!"
+      Broke: "&cDiese Funktion ist defekt! Bitte wenden Sie sich an einen Admin!\n
+              &6Sie können stattdessen /bank withdraw money <amount> verwenden."
+
+    Exp:
+      Doing: "&8Erfahrungspunkteabhebung..."
+      HaveZero: "&cDu hast nur %s auf deiner Bank!"
+      WithZero: "&cWarum solltest Du %s abheben?"
+      Success: "&aDu hast erfolgreich %s abgehoben.!"
+      NE: "&cDu hast nicht genug Erfahrungspunkte auf deiner Bank!"
+      Broke: "&cDiese Funktion ist defekt! Bitte wenden Sie sich an einen Admin!\n
+              &6Sie können stattdessen /bank withdraw exp <amount> verwenden."
+
+ConfirmUpgrade:
+  NEM: "&cDu hast nicht genug Geld!"
