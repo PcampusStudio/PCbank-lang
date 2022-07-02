@@ -4,7 +4,7 @@ Button:
   Close: "&cFermer"
   Close_Lore: "&bCliquez pour fermer ce menu."
   
-  Back: "&Arrière"
+  Back: "&aArrière"
   Back_Lore: "&eCliquez pour revenir en arrière."
 
 Main:
