@@ -1,0 +1,102 @@
+Title: "Menu Banku"
+
+Button:
+  Close: "&cZamknij"
+  Close_Lore: "&bKliknij aby zamknac menu."
+  
+  Back: "&cPowrot"
+  Back_Lore: "&eKliknij aby wrocic."
+
+Main:
+  Money: "&bSaldo: %s"
+  Money_Lore: "&aKliknij aby wplacic/wyplacic."
+
+  Exp: "&b%s"
+  Exp_Lore: "&aKliknij aby wplacic/wyplacic."
+
+  Upgrade: "&bAktualizacja banku"
+  Upgrade_Lore: "&aKliknij, aby uaktualnic swoj bank."
+  
+  Tier: "&aPoziom: %s"
+  TierMaxMoney: "&5Max Kasy: &b%s"
+  TierMaxExp: "&5Max Doswiadczenia: &b%s"
+  
+  CalInterest: "&aCzas do nastepnego zainteresowania: %s"
+  CalInterestAPR: "&a, APR: %s%%"
+  CalInterestInterest: "&5Interest you will get:"
+  CalInterestMoney: "&b%s"
+  CalInterestExp: "&b%s"
+
+Money:
+  Balance: "&bSaldo: %s"
+  Balance_Lore: "&aTwoje bierzace pieniadze."
+  
+  WithdrawAll: "&bKliknij aby wyplacic wszystkie pieniadze."
+  WithdrawAll_Lore: "&eWyplac wszystkie pieniadze."
+  
+  Withdraw: "&bKliknij aby wypalacic pieniadze."
+  Withdraw_Lore: "&eWprowadz kwote do wyplaty."
+  Withdraw_Sign3: "Wprowadz kwote"
+  Withdraw_Sign4: "do wyplaty"
+  
+  Deposit: "&bKliknij aby wpalcic."
+  Deposit_Lore: "&eWprowadz kwote do wplaty"
+  Deposit_Sign3: "Podaj kwote"
+  Deposit_Sign4: "do wplaty"
+  
+  DepositAll: "&bKliknij aby wpalcic wszystekiepieniadze."
+  DepositAll_Lore: "&eWplac wszystkiepieniadze."
+
+Exp:
+  Balance: "&b%s"
+  Balance_Lore: "&aTwoja obecna ilosc exp"
+
+  WithdrawAll: "&bKliknij aby zdeponowac caly exp."
+  WithdrawAll_Lore: "&eWstaw caly exp."
+  
+  Withdraw: "&bKliknij aby zdeponowac exp."
+  Withdraw_Lore: "&eWprowadz kwote do depozytu."
+  Withdraw_Sign3: "Wprowadz kwote"
+  Withdraw_Sign4: "do wplaty"
+  
+  Deposit: "&bKliknij aby zdeponowac exp."
+  Deposit_Lore: "&eWprowadz kwote do wplaty."
+  Deposit_Sign3: "Wprowadz kwote"
+  Deposit_Sign4: "do zdeponowania"
+  
+  DepositAll: "&bKliknij aby zdeponowac caly exp"
+  DepositAll_Lore: "&eDeponuj caly exp."
+
+Upgrade:
+  Next: "&aNastepna strona >>"
+  Previous: "&a<< Poprzednia strona"
+
+  Owned: "&bWlascicicel"
+  Tier: "&bPoziom %s"
+  Price: "&aCena ulepszenia: &b%s"
+  MaxMoney: "&5Max kasy: &b%s"
+  MaxExp: "&5Max Exp: &b%s"
+  
+  PointerNEM: "&cNie masz tyle pieniedzy!"
+  
+  PointerBottom: "&eKliknij w skrzynie"
+  PointerBottom_Lore: "&eaby ulepszyc."
+
+ConfirmUpgrade:
+  Balance: "&bSaldo: %s"
+  Balance_Lore: "&ePieniadze w kieszeni."
+
+  BUP: "&eKup to ulepszenie?"
+  CUP: "&eBiezace ulepszenie"
+
+  Tier:     "  - &bPoziom %s"
+  Price:    "  - &aCena ulepszenia: &b%s"
+  MaxMoney: "  - &5Max kasy: &b%s"
+  MaxExp:   "  - &5Max Exp: &b%s"
+
+  Accept: "&2AKCEPTUJE"
+  Cancel: "&4PRZERYWAM"
+
+  NEM: "&cNie masz tyle pieniedzy!"
+  EST: "&eZostanie Ci %s."
+

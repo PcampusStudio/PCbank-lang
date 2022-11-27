@@ -1,0 +1,62 @@
+Commands:
+  NoPerm: "&cNie masz uprawnien do uzywania tego polecenia."
+  PlaOff: "&cGracz jest offline!"
+
+  Balance:
+    SpePlayer: "&cMusisz okreslic gracza."
+    Money: "&a - Kasa: &6%s"
+    Exp: "&a - Exp: &6%s"
+
+  Help:
+    Help: "Wyswietla to menu pomocy."
+    Open: "Otworz PANEL Banku."
+    Balance: "Wyswietl bierzace saldo"
+    Deposit: "Wplac okreslona kwote"
+    Withdraw: "Wyplac okreslona kwote."
+
+Deposit:
+  NoSpace: "&cNie masz wystarczajaco duzo miejsca w banku!"
+
+  InvInput: "&cNieprawidlowe dane"
+
+  Money:
+    Doing: "&8Zdeponuj pieniadze.."
+    HaveZero: "&cPosiadasz tylko %s!"
+    DepoZero: "&cDlaczego mialbys wplacic %s?"
+    Success: "&aWplaciles %s na swoje konto bankowe!"
+    NE: "&cNie masz pieniedzy!"
+    Broke: "&cTa funkcja jest zepsuta! Skontaktuj sie z administratorem!\n
+            &6Nie mozesz uzyc wpisz /bank deposit money <kwota>."
+
+  Exp:
+    Doing: "&8Zdeponuj exp.."
+    HaveZero: "&cPosiadasz tylko %s!"
+    DepoZero: "&cDlaczego mialbys wplacic %s?"
+    Success: "&aWplaciles %s na swoje konto bankowe!"
+    NE: "&cNie masz exp!"
+    Broke: "&cTa funkcja jest zepsuta! Skontaktuj sie z administratorem!\n
+            &6Nie mozesz uzyc wpisz /bank deposit exp <kwota>."
+
+Withdraw:
+  InvInput: "&cNieprawidlowe dane!"
+
+  Money:
+    HaveZero: "&cPosiadasz tylko %s!"
+    DepoZero: "&cDlaczego mialbys wyplacic %s?"
+    Success: "&aWplaciles %s na swoje konto bankowe!"
+    NE: "&cNie masz pieniedzy!"
+    Broke: "&cTa funkcja jest zepsuta! Skontaktuj sie z administratorem!\n
+            &6Nie mozesz uzyc wpisz /bank withdraw money <kwota>."
+
+  Exp:
+    Doing: "&8Wyplata exp..."
+    HaveZero: "&cPosiadasz tylko %s!"
+    DepoZero: "&cDlaczego mialbys wyplacic %s?"
+    Success: "&aWplaciles %s na swoje konto bankowe!"
+    NE: "&cNie masz pieniedzy!"
+    Broke: "&cTa funkcja jest zepsuta! Skontaktuj sie z administratorem!\n
+    Broke: "&cThis feature is broken! Please contact an admin!\n
+            &6Nie mozesz uzyc wpisz /bank withdraw exp <kwota>."
+
+ConfirmUpgrade:
+  NEM: "&cNie maszy tyle pieniedzy"
