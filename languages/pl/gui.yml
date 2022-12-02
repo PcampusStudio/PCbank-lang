@@ -1,4 +1,4 @@
-Title: "Menu Banku"
+Title: "&6&lBank Miejskiego"
 
 Button:
   Close: "&cZamknij"
@@ -21,9 +21,9 @@ Main:
   TierMaxMoney: "&5Max Kasy: &b%s"
   TierMaxExp: "&5Max Doswiadczenia: &b%s"
   
-  CalInterest: "&aCzas do nastepnego zainteresowania: %s"
+  CalInterest: "&aCzas do wypłaty odsetek: %s"
   CalInterestAPR: "&a, APR: %s%%"
-  CalInterestInterest: "&5Interest you will get:"
+  CalInterestInterest: "&5Odsetki:"
   CalInterestMoney: "&b%s"
   CalInterestExp: "&b%s"
 

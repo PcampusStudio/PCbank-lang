@@ -25,8 +25,8 @@ Deposit:
     DepoZero: "&cDlaczego mialbys wplacic %s?"
     Success: "&aWplaciles %s na swoje konto bankowe!"
     NE: "&cNie masz pieniedzy!"
-    Broke: "&cTa funkcja jest zepsuta! Skontaktuj sie z administratorem!\n
-            &6Nie mozesz uzyc wpisz /bank deposit money <kwota>."
+    Broke: "&cTa funkcja jest zepsuta! Skontaktuj sie z administratorem!"
+
 
   Exp:
     Doing: "&8Zdeponuj exp.."
@@ -34,8 +34,8 @@ Deposit:
     DepoZero: "&cDlaczego mialbys wplacic %s?"
     Success: "&aWplaciles %s na swoje konto bankowe!"
     NE: "&cNie masz exp!"
-    Broke: "&cTa funkcja jest zepsuta! Skontaktuj sie z administratorem!\n
-            &6Nie mozesz uzyc wpisz /bank deposit exp <kwota>."
+    Broke: "&cTa funkcja jest zepsuta! Skontaktuj sie z administratorem!"
+
 
 Withdraw:
   InvInput: "&cNieprawidlowe dane!"
@@ -45,8 +45,8 @@ Withdraw:
     DepoZero: "&cDlaczego mialbys wyplacic %s?"
     Success: "&aWplaciles %s na swoje konto bankowe!"
     NE: "&cNie masz pieniedzy!"
-    Broke: "&cTa funkcja jest zepsuta! Skontaktuj sie z administratorem!\n
-            &6Nie mozesz uzyc wpisz /bank withdraw money <kwota>."
+    Broke: "&cTa funkcja jest zepsuta! Skontaktuj sie z administratorem!"
+
 
   Exp:
     Doing: "&8Wyplata exp..."
@@ -54,9 +54,7 @@ Withdraw:
     DepoZero: "&cDlaczego mialbys wyplacic %s?"
     Success: "&aWplaciles %s na swoje konto bankowe!"
     NE: "&cNie masz pieniedzy!"
-    Broke: "&cTa funkcja jest zepsuta! Skontaktuj sie z administratorem!\n
-    Broke: "&cThis feature is broken! Please contact an admin!\n
-            &6Nie mozesz uzyc wpisz /bank withdraw exp <kwota>."
+    Broke: "&cTa funkcja jest zepsuta! Skontaktuj sie z administratorem"
 
 ConfirmUpgrade:
   NEM: "&cNie maszy tyle pieniedzy"
